@@ -81,6 +81,7 @@ void out1(vi v)
 const ll MAXN = (ll)(1 * 1e6 + 5);
 void solve()
 {
+
     ll n;
     cin >> n;
     ll a[n];
